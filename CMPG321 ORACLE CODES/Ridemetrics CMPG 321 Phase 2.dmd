@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Ridemetrics CMPG 321 Phase 2" id="A7374F80-787E-F2D7-021F-C1E2789167C1" version="3.5">
+<createdBy>tlhol</createdBy>
+<createdTime>2026-10-12 20:11:58 UTC</createdTime>
+<ownerDesignName>Ridemetrics CMPG 321 Phase 2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A7374F80-787E-F2D7-021F-C1E2789167C1</designId>
+</OSDM_Design>
